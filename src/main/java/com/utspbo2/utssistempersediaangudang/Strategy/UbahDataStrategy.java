@@ -31,7 +31,7 @@ public class UbahDataStrategy implements GudangStrategy {
         }
 
         //Pilih dengan kode
-        String kode = input.readString("\nMasukkan Kode Barang yang ingin dikurangi: ");
+        String kode = input.readString("\nMasukkan Kode Barang yang ingin diubah: ");
         Barang barang = repository.cariByKode(kode);
 
         if (barang == null) {
