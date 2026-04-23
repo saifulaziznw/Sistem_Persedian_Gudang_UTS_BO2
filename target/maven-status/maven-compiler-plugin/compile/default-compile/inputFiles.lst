@@ -1,0 +1,14 @@
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Factory\GudangFactory.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Helper\InputHelper.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Menu\MenuAplikasi.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Model\Barang.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Repository\GudangRepository.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Strategy\CariDataStrategy.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Strategy\GudangStrategy.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Strategy\GudangStrategyContext.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Strategy\HapusDataStrategy.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Strategy\KurangiStokStrategy.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Strategy\LihatDataGudang.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Strategy\TambahDataStrategy.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\Strategy\UbahDataStrategy.java
+C:\Users\UsEdbybrAInwArE\Documents\NetBeansProjects\UtsSistemPersediaanGudang\src\main\java\com\utspbo2\utssistempersediaangudang\UtsSistemPersediaanGudang.java
